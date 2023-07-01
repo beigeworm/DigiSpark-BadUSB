@@ -48,12 +48,23 @@ delay units are in milliseconds - (1000) = 1 second!
 
 
 DigiKeyboard.delay Is used to add a pause before moving on (even small ones needed for some computers to keep up!)
+
+
 DigiKeyboard.delay(200);
 
 DigiKeyboard.sendKeyStroke Presses 1,2 or 3 keys together (with 3 keys they must me seperated with comma then pipe symbol, and 2 keys is just a comma)
+
+
 DigiKeyboard.sendKeyStroke(MOD_GUI_LEFT); (('GUI' means the windows key))
+
+
 DigiKeyboard.sendKeyStroke(MOD_GUI_LEFT, KEY_ENTER);
+
+
 DigiKeyboard.sendKeyStroke(KEY_ENTER, MOD_CONTROL_LEFT | MOD_SHIFT_LEFT);
 
+
 DigiKeyboard.print Prints a line of text (like typing) - USE brackets and quotes ("")
+
+
 DigiKeyboard.print("type what ever string of text you like here like");
