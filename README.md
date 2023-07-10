@@ -36,8 +36,11 @@ Running Digispark Uploader...
 Plug in device now... (will timeout in 60 seconds)
 
 PLUG IN NOW AND WAIT 10secs, once done it will reconnect and begin its job..
+
 DigiSpark runs on a loop so it's wise to add a large delay at the end of any script so it wont loop
+
 It will now run commands on loop when plugged in to anything except for..
+
 when you plug in to arduino like we did earlier.
 
 ***- - - - EXAMPLES - - - - -***
