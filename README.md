@@ -1,5 +1,5 @@
 # DigiSpark-BadUSB
-This is a quick tutorial for setting up a Digispark Bad USB.
+This is a quick tutorial for setting up a Digispark to be a 'BadUSB' Device. 
 
 ***- - - - SETUP - - - - -***
 
